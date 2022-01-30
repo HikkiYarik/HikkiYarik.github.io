@@ -1,0 +1,3 @@
+[submodule "path_to_dist"] 
+  path = /dist 
+  url = https://github.com/HikkiYarik/HikkiYarik.github.io.git
